@@ -13,7 +13,7 @@ const styles = StyleSheet.create({
     item: {
         padding: 16,
         marginTop: 16,
-        borderColor: '#bbb',
+        borderColor: 'coral',
         borderWidth: 1,
         borderStyle: "dashed",
         borderRadius: 1,
