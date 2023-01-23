@@ -68,9 +68,12 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
   },
   content: {
-    padding: 40
+    padding: 40,
+    backgroundColor: 'pink',
+    flex: 1
   },
   list: {
-    marginTop: 20
+    marginTop: 20,
+    flex: 1,
   }
 });
